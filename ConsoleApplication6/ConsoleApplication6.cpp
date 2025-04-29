@@ -15,7 +15,7 @@ class VideoCard : public Device
 public:
     string GetInfo() const override 
     {
-        return "Видеокарта: RTX 3080RTX 3080";
+        return "Видеокарта: RTX 3080";
     }
 };
 
